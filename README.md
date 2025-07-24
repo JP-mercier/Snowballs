@@ -1,6 +1,6 @@
-# Date Changer + Steam Offline Launcher (for PAYDAY 2)
+# Snowballs for PAYDAY 2
 
-## 📄 File: `date_changer.ps1`
+## 📄 File: `Snowballs.ps1`
 
 This PowerShell script is designed to temporarily change your system date and automate launching **PAYDAY 2** in **Steam Offline Mode**. 
 This can be useful for reverting to older in-game states or accessing specific time-based content.
