@@ -11,7 +11,7 @@ This can be useful for reverting to older in-game states or accessing specific t
 
 1. **Checks if Steam is closed.**
 2. **Stops the Windows Time service** to allow manual date changes.
-3. **Temporarily sets your system date** to a custom past date (e.g. `07/20/2023`).
+3. **Temporarily sets your system date** to a custom past date in january.
 4. **Launches PAYDAY 2 in Offline Mode** using the `steam://launch` protocol.
 5. **Waits for user confirmation** before restoring the correct date.
 6. **Restores your real system date and time** using `w32tm`.
